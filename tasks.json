@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "main.cpp",
+                "planificacion_procesos/planificador.cpp",
+                "estructuras_datos/proceso.cpp",
+                "gestion_memoria/gestor_memoria.cpp",
+                "gestion_recursos/gestor_recursos.cpp",
+                "-o",
+                "simulador"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Generated task by Debugger."
+        }
+    ]
+}
