@@ -169,4 +169,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-Para cualquier consulta o problema, puedes contactarme a través de [mi correo electrónico](mailto:shalomsolutiontech@gmail.com).
+Para cualquier consulta o problema, puedes contactarme a través de [shalomsolutiontech@gmail.com](mailto:shalomsolutiontech@gmail.com).
